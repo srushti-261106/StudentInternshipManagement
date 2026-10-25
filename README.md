@@ -104,3 +104,32 @@ This project was developed as an academic DBMS project to demonstrate database d
 ## Author
 
 **Srushti Patole**
+
+## 📸 Project Screenshots
+
+### 1. Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Student Management
+
+![Student Management](screenshots/student-management.png)
+
+### 3. Company Management
+
+![Company Management](screenshots/company-management.png)
+
+### 4. Internship Management
+
+![Internship Management](screenshots/internship-management.png)
+
+### 5. Application Management
+
+![Application Management](screenshots/application-management.png)
+
+### 6. Reports
+
+![Reports](screenshots/reports.png)
+
+
+
